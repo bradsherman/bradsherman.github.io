@@ -3,11 +3,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
   <title>{% if page.use-site-title %}{{ site.title }} {{ site.title-separator | default: '-' }} {{ site.description }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-  
+
   {% if site.author %}
   <meta name="author" content="{{ site.author }}">
   {% endif %}
-  
+
   {% if page.subtitle %}
   <meta name="description" content="{{ page.subtitle }}">
   {% endif %}
@@ -127,4 +127,8 @@
   <link rel="stylesheet" href="{{ "/assets/css/staticman.css" | relative_url }}">
   {% endif %}
 
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/img/apple-touch-icon.png">
+  <link rel="shortcut icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/assets/img/favicon-32x32.png">
+  <link rel="shortcut icon" type="image/png" sizes="16x16" href="{{ site.baseurl }}/assets/img/favicon-16x16.png">
+  <link rel="manifest" href="/assets/img/site.webmanifest">
 </head>
