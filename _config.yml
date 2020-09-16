@@ -39,7 +39,7 @@ url: "https://bitsbybrad.com" # the base hostname & protocol for your site, e.g.
 github_username:  bradsherman
 
 # Build settings
-remote_theme: daattali/beautiful-jekyll@4.1.0
+remote_theme: daattali/beautiful-jekyll@5.0.0
 
 # --- Footer options --- #
 
