@@ -2,7 +2,7 @@
 layout: post
 title: Starting a Blog
 readtime: true
-tags: writing learning
+tags: [writing, learning]
 ---
 
 In this post I'd like to explain some of the reasons I chose to start this blog. If you had told me 5 years ago that I was going to start writing blog posts about the things I do in my free time, I'd have thought you were insane. I never enjoyed writing in school, and I just did what was necessary to get a good grade. Clearly, my feelings have changed so I think it's fair to talk a little bit about why that happened and how I hope starting a blog will be a good use of my time. It boils down to three reasons:

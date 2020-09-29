@@ -2,7 +2,7 @@
 layout: post
 title: Learning Rust the Open Source Way
 readtime: true
-tags: rust learning open-source
+tags: [rust, learning, open-source]
 ---
 
   A few months ago I started learning Rust, and in the process I ended up contributing to an open source project for the first time. It turned out to be a great vehicle for learning Rust, so in this post I'd like to go over what I did and why I think it was a good learning experience. In particular I want to walk through my thought process as I navigated my first open source contribution in the hopes that others who face similar challenges are encouraged to overcome them. Throughout this post I'll also explain more about how this helped me learn Rust.
